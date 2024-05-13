@@ -1,0 +1,19 @@
+S NP VP DT NN NNS JJ VBP VBZ ART
+S NP VP
+NP DT NN
+NP DT NNS
+NP ART NN
+DT “The”
+ART “A”
+NN “person”
+NNS “people”
+VP VBZ NP
+VP VBP NP
+VBP “dislike”
+VBZ  “dislikes”
+VBP ”like”
+VBZ ”likes”
+NP DT JJ NN
+DT "the"
+JJ “green”
+NN “dog”
